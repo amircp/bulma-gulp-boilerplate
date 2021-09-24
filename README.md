@@ -5,9 +5,13 @@ Bulma SaSS boiler plate to start from scratch your HTML websites projects using 
 ## Installation
 
 Clone the current repository 
-
 ```bash
-https://github.com/amircp/bulma-gulp-boilerplate
+git clone https://github.com/amircp/bulma-gulp-boilerplate /mynewsite
+```
+
+Run yarn
+```bash
+yarn install
 ```
 
 ## Usage
